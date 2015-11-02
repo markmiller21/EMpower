@@ -1,26 +1,3 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Modern Business](http://startbootstrap.com/template-overviews/modern-business/)
+This is a basic responsive website for EMpower.
 
-[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
-
-## Getting Started
-
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-modern-business/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/modern-business/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-modern-business/blob/gh-pages/LICENSE) license.
+EMpower is a development platform that partners with local organizations to build physical and energy infrastructure in emerging markets. EMpower provides the highest standards of diligence, deal execution, and financing for infrastructure projects. In cooperation with its partners, EMpower identifies, develops, and markets infrastructure projects to sophisticated buyers in the US and Europe. This one-of-a-kind partnership model allows EMpower to most effectively leverage the local intelligence of targeted organizations while providing project finance expertise to advance the missions of its partners. This unique approach enables EMpower to quickly identify assets that are both critical to economic development and imminently financeable by American institutional standards. Targeted partners include established non-governmental organizations, leading institutions, and former government officials in financeable emerging markets.
