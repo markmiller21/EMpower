@@ -91,3 +91,8 @@ footer {
         height: 70%;
     }
 }
+
+.logo-class {
+    height: 40px;
+    width: auto;
+}
