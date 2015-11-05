@@ -103,6 +103,10 @@ footer {
     border: 5px double #A5744D;
 }
 
+.about-me-header {
+    padding-left: 10px;
+}
+
 .about-me-body {
     margin: 15px;
     padding: 0px 40px 5px 10px;
