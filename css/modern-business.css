@@ -98,7 +98,7 @@ footer {
 }
 
 .about-me {
-    margin: 120px 0px 60px 0px;
+    margin: 100px 0px 60px 0px;
     background-color: #F0F8FF;
     border: 5px double #A5744D;
 }
@@ -112,4 +112,25 @@ footer {
     padding: 0px 40px 5px 10px;
     font-size: 16px;
     font-family: "brandon-grotesque", sans-serif;
+}
+
+.partnership-page {
+    margin-top: 80px;
+    background-color: #F0F8FF;
+    border: 5px double #A5744D;
+}
+
+.partnership-page-header {
+    padding-left: 25px;
+}
+
+.partnership-page-body {
+    margin: 15px;
+    padding: 0px 40px 5px 0px;
+    font-size: 16px;
+    font-family: "brandon-grotesque", sans-serif;
+}
+
+.partnership-page li {
+    list-style-type: none;
 }
