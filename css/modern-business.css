@@ -97,14 +97,14 @@ footer {
     height: 100%;
 }
 
-.about-me{
+.about-me {
     padding: 120px 0px 60px 0px;
 }
 
-.about-me-header{
-
+.about-me-header {
+    font-size: 16px;
 }
 
-.about-me-body{
-
+.about-me-body {
+    font-size: 12px;
 }
