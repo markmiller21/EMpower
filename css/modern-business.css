@@ -94,6 +94,7 @@ footer {
 
 .wind-background {
     background-image: url("../imgs/wind-large.jpg");
+    height: 100%;
 }
 
 .about-me{
@@ -101,5 +102,5 @@ footer {
 }
 
 .about-me-header{
-    
+
 }
