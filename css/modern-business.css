@@ -92,7 +92,6 @@ footer {
     }
 }
 
-.logo-class {
-    height: 40px;
-    width: auto;
+.wind-background {
+    background-image: url("../imgs/wind-large.jpg");
 }
